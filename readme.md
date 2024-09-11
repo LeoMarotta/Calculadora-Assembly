@@ -1,6 +1,6 @@
-# Assembly Arithmetic Operations
+# Calculadora Assembly
 
-Este repositório contém um programa em linguagem Assembly projetado para realizar operações aritméticas básicas: adição, subtração, multiplicação, divisão e cálculo de fatorial.
+Desenvolvido no primeiro semestre na curso de engenharia da computação na UFPEL, este repositório contém um programa em linguagem Assembly projetado para realizar operações aritméticas básicas: adição, subtração, multiplicação, divisão e cálculo de fatorial. 
 
 ## Visão Geral do Programa
 
